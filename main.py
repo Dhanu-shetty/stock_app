@@ -53,11 +53,6 @@ for tupul in user:
 
 
 
-print(nse.get_index_quote("nifty bank")["lastPrice"] )
-
-
-
-
 
 
 
